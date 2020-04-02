@@ -30,3 +30,4 @@ var fomatFloat = function (value, n) {
 }
 var d = fomatFloat(num, 3);
 console.log(d, typeof d) // 2.400 string
+
